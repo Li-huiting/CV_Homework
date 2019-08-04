@@ -1,6 +1,6 @@
 
 
-AugmentationClass class use to do with image
+AugmentationClass use to do with image
 
     1. image crop
     2. image color_shift
